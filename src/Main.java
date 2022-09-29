@@ -23,7 +23,7 @@ public class Main {
 
     //Task3
     public static void Task3() {
-        String fullName = "Иванов Семён Семёнович";
+        String fullName = "Иванов Семён Семёнович ";
         String fullNameResult = fullName.replace('ё', 'е');
         System.out.println(fullNameResult);
     }
